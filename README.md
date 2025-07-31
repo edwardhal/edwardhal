@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Edward 👋
 
-<!--
-**edwardhal/edwardhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring IT Professional** from Adelaide, Australia 
+🚀 Currently learning **Python**, **Google IT Support**, and **Cybersecurity**
+🔧 Building beginner-friendly **automation scripts** and **IT support tools**
+🎯 Goal : Land a **paid IT traineeship / junior tech role** in 2025
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- 🐍 Python (automation scripts, file handling)
+- 🌐 HTML, CSS (FreecodeCamp)
+- 🛡️ Cybersecurity basics (TryHackMe)
+- 💾 Github / Git version control
+- 🖥️ IT Support fundementals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects (Work in Progress)
+- 🔹 **File Cleaner Script** - Organize files into folders by type
+- 🔹 **System Logger** - Basic IT troubleshooting log
+- 🔹 **Log Processor** - Reads and filters server logs
+
+## 📫 Connect
+- [💼 LinkedIn](https://www.linkedin.com/in/edward-halime-051894166/)
+
+---
+
+⚡ *"Every great IT career starts with learning, building, and sharing."*
